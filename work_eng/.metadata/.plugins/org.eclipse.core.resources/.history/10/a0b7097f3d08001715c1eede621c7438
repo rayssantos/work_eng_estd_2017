@@ -1,0 +1,10 @@
+package estd;
+
+public class Aula {
+	
+	
+	public String invert (String s) {
+		return "alo";
+	}
+
+}

@@ -1,0 +1,22 @@
+package estd;
+
+public class Even {
+
+	public int countEvens(int[] nums) {
+		
+		for (int i : nums) {
+			
+		}
+		
+	}
+	
+	public int countEvens2(int[] nums) {
+
+		for (int i = 0; i < nums.length; i++) {
+			
+		}
+		
+	}
+	
+
+}

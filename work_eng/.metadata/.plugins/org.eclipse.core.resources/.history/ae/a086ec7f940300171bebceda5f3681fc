@@ -1,0 +1,9 @@
+package estd;
+
+public class Monkey {
+
+	public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
+
+	}
+
+}
